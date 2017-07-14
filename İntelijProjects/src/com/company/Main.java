@@ -13,7 +13,7 @@ public class Main {
     public static void write(){
 
         System.out.print("Hey Hey Pa Pa");
-
+        System.out.print("asdasdasdasd");
     }
 
 
