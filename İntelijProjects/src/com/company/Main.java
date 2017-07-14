@@ -7,6 +7,7 @@ public class Main {
         System.out.print("adas");
         System.out.print("Hey Hey Ma Ma");
         write();
+
     }
 
     public static void write(){
